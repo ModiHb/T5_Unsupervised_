@@ -10,3 +10,14 @@ The dataset consists of 2,946 posts And includes many features it consists of Jo
  Technologies:  Python - Jupyter Notebook.
 
  Libraries: Pandas – NumPy – Matplotlib – Seaborn – nltk – Sklearn - Scipy 
+________________________________________________________________________________
+
+
+**Instructor:** [**Mr. Srinivas Rao**]()
+
+### contributors:
+#### [Modhi Alhbrdi](https://github.com/ModiHb)
+#### [Rahaf Alyousef](https://github.com/rahafkh1)
+
+
+
